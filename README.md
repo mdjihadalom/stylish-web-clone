@@ -7,8 +7,7 @@ A simple web page built with **HTML, CSS**.
 
 ## 📸 Screenshots
 
-![Screenshot 1](./Simple-Banking-System/elements/Capture.JPG)
-![Screenshot 2](./Simple-Banking-System/elements/Capture2.JPG)
+![Screenshot 1](./)
 
 ---
 
