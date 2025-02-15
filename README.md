@@ -1,39 +1,13 @@
 ## Stylish Web Clone
 A simple web page built with **HTML, CSS**.  
 
-🔗 **Live Demo:** 👉 [View Here](https://mdjihadalom.github.io/Simple-Banking-System-Using-DOM/)
+⚠ **Important Notice before click live demo**  
+This project was not designed using Figma, so the layout may break on different screen sizes or devices.  
+For best results, view it on a larger screen or adjust the styles as needed.
+
+🔗 **Live Demo:** 👉 [View Here](https://mdjihadalom.github.io/stylish-web-clone/)
 
 ---
-
-## 📸 Screenshots
-
-![Screenshot 1](https://mdjihadalom.github.io/Simple-Banking-System-Using-DOM/screenshot.png)
-
----
-
-## 🚀 Features
-
-✅ Deposit money  
-✅ Withdraw money  
-✅ View all amount related data  
-✅ Prevents invalid transactions – Users cannot deposit or withdraw negative or null values; an alert message is displayed.    
-✅ User-friendly interface    
-
----
-
-## 🛠️ Technologies Used
-
-- **HTML** - Structure of the site  
-- **CSS** - Styling the UI   
-
----
-
-## 📥 Installation Guide
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mdjihadalom/Simple-Banking-System-Using-DOM.git
-   
 
 ## 🤝 Contributing
 
