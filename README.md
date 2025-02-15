@@ -7,7 +7,7 @@ A simple web page built with **HTML, CSS**.
 
 ## 📸 Screenshots
 
-![Screenshot 1](./)
+![Screenshot 1] [View Here](https://mdjihadalom.github.io/Simple-Banking-System-Using-DOM/)
 
 ---
 
