@@ -2,8 +2,8 @@
 A simple web page built with **HTML, CSS**.  
 
 ⚠ **Important Notice before click live demo**  
-This project was not designed using Figma, so the layout may break on different screen sizes or devices.  
-For best results, view it on a larger screen or adjust the styles as needed.
+This is just a practice project. It was not designed using Figma, 
+For best results, please view this on desktop, as it is not responsive on mobile or other devices.
 
 🔗 **Live Demo:** 👉 [View Here](https://mdjihadalom.github.io/stylish-web-clone/)
 
